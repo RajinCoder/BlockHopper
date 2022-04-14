@@ -1,6 +1,19 @@
 #gameCanvas {
-    background-color: aqua;
-    border: 1px solid black;
+    background-color: #add8e6;
+    border: 2px solid white;
     padding: 0;
     margin: 0;
+}
+#gameScore {
+    color: black;
+}
+#cloud {
+    display: none;
+}
+div{
+    text-align: center;
+    margin-top: 200px;
+}
+body{
+    background-color:black;
 }
